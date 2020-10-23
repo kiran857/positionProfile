@@ -1,0 +1,92 @@
+.top-container{
+    background-color: red;
+    height: 100px;
+    width:100px;
+   display: inline-block;
+   position: relative;
+   left:190px;
+}
+.middle-container{
+    background-color: green;
+    height: 100px;
+    width:100px;
+    display: inline-block;
+    position: relative;
+    right: 10px;
+    
+}
+.bottom-container{
+    background-color: yellow;
+    height: 100px;
+    width:100px;
+    display: inline-block;
+    position: relative;
+    right:210px;
+}
+h1{
+    text-align: center;
+}
+.first-container{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    position: absolute;
+    top:0px;
+    left:0px;
+}
+.second-container{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    position: absolute;
+    top:103px;
+    left:103px;
+   /* position: fixed*/
+}
+.thrid-container{
+    background-color:yellow;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    position: absolute;
+    top:206px;
+    left:206px;
+}
+.fourth-container{
+    background-color:blue;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    position: absolute;
+    top:309px;
+    left:309px
+}
+.fith-container{
+    background-color:palevioletred;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    position: absolute;
+    top:412px;
+    left:412px; 
+}
+.six-container{
+    background-color:darkcyan;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    position: absolute;
+    top:515px;
+    left:515px; 
+}
+.seven-container{
+    background-color:purple;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    position: absolute;
+    top:618px;
+    left:618px; 
+}
